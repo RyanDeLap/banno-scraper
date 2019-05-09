@@ -1,0 +1,4 @@
+com\banno\webscraper\StringUtil.class
+com\banno\webscraper\ScrapeResult.class
+com\banno\webscraper\WebScraper.class
+com\banno\webscraper\ValueComparator.class
